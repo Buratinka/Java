@@ -88,5 +88,3 @@ public class Solution {
     }
 
 }
-///home/oleg/newfile.txt
-///home/oleg/newfile2.txt
