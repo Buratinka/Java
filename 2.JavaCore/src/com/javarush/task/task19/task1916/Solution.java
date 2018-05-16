@@ -1,3 +1,7 @@
+
+                                                                        // Валидатор не приймає
+
+
 package com.javarush.task.task19.task1916;
 
 
@@ -8,7 +12,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-/* 
+/*
 Отслеживаем изменения
 */
 
@@ -16,14 +20,15 @@ public class Solution {
     public static List<LineItem> lines = new ArrayList<LineItem>();
 
     public static void main(String[] args) throws IOException {
-
         BufferedReader fileName = new BufferedReader(new InputStreamReader(System.in));
 
 
-        BufferedReader file1 = new BufferedReader(new FileReader(fileName.readLine()));
-        BufferedReader file2 = new BufferedReader(new FileReader(fileName.readLine()));
 
+        FileReader fr1 = new FileReader(fileName.readLine());
+        FileReader fr2 = new FileReader(fileName.readLine());
 
+        BufferedReader file1 = new BufferedReader(fr1);
+        BufferedReader file2 = new BufferedReader(fr2);
 
 
         LineItem lineitem;
@@ -88,5 +93,3 @@ public class Solution {
     }
 
 }
-///home/oleg/newfile.txt
-///home/oleg/newfile2.txt
