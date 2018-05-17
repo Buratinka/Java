@@ -1,99 +1,46 @@
-
 package com.javarush.task.task19.task1916;
-
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
-
-/*
-Отслеживаем изменения
-*/
+import java.util.stream.Collectors;
 
 public class Solution {
     public static List<LineItem> lines = new ArrayList<LineItem>();
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader fileName = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+             FileReader fileReader1 = new FileReader(reader.readLine());
+             FileReader fileReader2 = new FileReader(reader.readLine())) {
 
+            List<String> original = new BufferedReader(fileReader1).lines().collect(Collectors.toList());
+            List<String> modified = new BufferedReader(fileReader2).lines().collect(Collectors.toList());
 
-
-        FileReader file1 = new FileReader(fileName.readLine());
-        FileReader file2 = new FileReader(fileName.readLine());
-
-        BufferedReader fileReader1 = new BufferedReader(file1);
-        BufferedReader fileReader2 = new BufferedReader(file2);
-
-        LinkedList<String> original = new LinkedList();
-        LinkedList<String> edited = new LinkedList();
-
-
-
-        String nameLine1 = null;
-        String nameLine2 = null;
-
-        while(fileReader1.ready())
-        {
-            nameLine1 = fileReader1.readLine();
-            original.add(nameLine1);
-        }
-
-
-        while(fileReader2.ready())
-        {
-
-            nameLine2 = fileReader2.readLine();
-            edited.add(nameLine2);
-
-        }
-
-
-
-        for(int i =0;i<original.size();++i)
-        {
-            if(original.get(i).equals(edited.get(i)))
-            {
-                lines.add(new LineItem(Type.SAME,original.get(i)));
-                edited.set(i,null);
-            }
-            else
-                if (!original.get(i).equals(edited.get(i)) && original.get(i).equals(edited.get(i + 1)))
-                {
-                lines.add(new LineItem(Type.ADDED, edited.get(i)));
-                edited.remove(i);
-            }
-            else if (!original.get(i).equals(edited.get(i)) && !original.get(i).equals(edited.get(i + 1)))
-            {
-                lines.add(new LineItem(Type.REMOVED, original.get(i)));
-                edited.add(0 , null);
+            while (original.size() != 0 & modified.size() != 0) {
+                if (original.get(0).equals(modified.get(0))) {
+                    lines.add(new LineItem(Type.SAME, original.remove(0)));
+                    modified.remove(0);
+                } else if (modified.size() != 1 && original.get(0).equals(modified.get(1))) {
+                    lines.add(new LineItem(Type.ADDED, modified.remove(0)));
+                } else if (original.size() != 1 && original.get(1).equals(modified.get(0))) {
+                    lines.add(new LineItem(Type.REMOVED, original.remove(0)));
+                }
             }
 
+            if (original.size() != 0) {
+                lines.add(new LineItem(Type.REMOVED, original.remove(0)));
+            } else if (modified.size() != 0) {
+                lines.add(new LineItem(Type.ADDED, modified.remove(0)));
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
 
-for(String s : original)
-{
-    System.out.print(s + "  ");
-}
-
-for(String s : edited)
-{
-    System.out.print(s + "    ");
-}
-
-
-for(LineItem li : lines)
-{
-    System.out.println(li.type + " " + li.line);
-}
-
-
-
+        lines.forEach(System.out::println);
     }
-
 
     public static enum Type {
         ADDED,        //добавлена новая строка
@@ -109,6 +56,13 @@ for(LineItem li : lines)
             this.type = type;
             this.line = line;
         }
-    }
 
+        @Override
+        public String toString() {
+            return "LineItem{" +
+                    "type=" + type +
+                    ", line='" + line + '\'' +
+                    '}';
+        }
+    }
 }
