@@ -1,7 +1,3 @@
-
-                                                                        // Валидатор не приймає
-
-
 package com.javarush.task.task19.task1916;
 
 
@@ -10,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /*
@@ -24,53 +21,74 @@ public class Solution {
 
 
 
-        FileReader fr1 = new FileReader(fileName.readLine());
-        FileReader fr2 = new FileReader(fileName.readLine());
+        FileReader file1 = new FileReader(fileName.readLine());
+        FileReader file2 = new FileReader(fileName.readLine());
 
-        BufferedReader file1 = new BufferedReader(fr1);
-        BufferedReader file2 = new BufferedReader(fr2);
+        BufferedReader fileReader1 = new BufferedReader(file1);
+        BufferedReader fileReader2 = new BufferedReader(file2);
+
+        LinkedList<String> original = new LinkedList();
+        LinkedList<String> edited = new LinkedList();
 
 
-        LineItem lineitem;
-        String file1Read;
-        String file2Read;
 
-        while(file1.ready() && file2.ready())
+        String nameLine1 = null;
+        String nameLine2 = null;
+
+        while(fileReader1.ready())
         {
-            file1Read = file1.readLine();
-            file2Read = file2.readLine();
+            nameLine1 = fileReader1.readLine();
+            original.add(nameLine1);
+        }
 
 
-                if(file1Read.equals(file2Read))
-                {
-                    lineitem = new LineItem(Type.SAME," " + file1Read);
+        while(fileReader2.ready())
+        {
 
-                    lines.add(lineitem);
-
-                }
-                else if(file1Read.equals("") && !file2Read.equals(""))
-                {
-                    lineitem = new LineItem(Type.ADDED," " + file2Read);
-
-                    lines.add(lineitem);
-                }else if(!file1Read.equals("") && file2Read.equals(""))
-                {
-                    lineitem = new LineItem(Type.REMOVED," " + file1Read);
-                    lines.add(lineitem);
-                }
-
+            nameLine2 = fileReader2.readLine();
+            edited.add(nameLine2);
 
         }
 
-        fileName.close();
-        file1.close();
-        file2.close();
 
 
-        for(LineItem line : lines)
+        for(int i =0;i<original.size();++i)
         {
-            System.out.println(line.type + " " + line.line);
+            if(original.get(i).equals(edited.get(i)))
+            {
+                lines.add(new LineItem(Type.SAME,original.get(i)));
+                edited.set(i,null);
+            }
+            else
+                if (!original.get(i).equals(edited.get(i)) && original.get(i).equals(edited.get(i + 1)))
+                {
+                lines.add(new LineItem(Type.ADDED, edited.get(i)));
+                edited.remove(i);
+            }
+            else if (!original.get(i).equals(edited.get(i)) && !original.get(i).equals(edited.get(i + 1)))
+            {
+                lines.add(new LineItem(Type.REMOVED, original.get(i)));
+                edited.add(0 , null);
+            }
+
         }
+
+for(String s : original)
+{
+    System.out.print(s + "  ");
+}
+
+for(String s : edited)
+{
+    System.out.print(s + "    ");
+}
+
+
+for(LineItem li : lines)
+{
+    System.out.println(li.type + " " + li.line);
+}
+
 
 
     }
