@@ -1,6 +1,6 @@
 package com.javarush.task.task20.task2018;
 
-import java.io.Serializable;
+import java.io.*;
 
 /* 
 Найти ошибки
