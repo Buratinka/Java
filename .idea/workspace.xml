@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+    </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1319,7 +1321,7 @@
       <workItem from="1527693981506" duration="105000" />
       <workItem from="1527694111032" duration="2820000" />
       <workItem from="1527700415624" duration="6499000" />
-      <workItem from="1527753291612" duration="1736000" />
+      <workItem from="1527753291612" duration="2759000" />
     </task>
     <task id="LOCAL-00001" summary="19lvl">
       <created>1526121475348</created>
@@ -1479,10 +1481,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176148000" />
+    <option name="totallyTimeSpent" value="177171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
