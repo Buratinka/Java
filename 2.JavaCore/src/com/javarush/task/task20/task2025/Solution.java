@@ -1,65 +1,54 @@
 package com.javarush.task.task20.task2025;
 
 import java.io.IOException;
-import java.util.ArrayList;
-
-import java.util.Collections;
 
 /*
 Алгоритмы-числа
 */
 public class Solution {
 
+    public static long[] getNumbers(long N)
+    {
+        String[] lengthWorld = new String[0];
+        Long[] num = new Long[lengthWorld.length];
+        double finalyLong = 0;
+        long[] result = null;
 
-    public static long[] getNumbers(long N) throws IOException {
+        String world = "" + N;
 
-        ArrayList<Long> list = new ArrayList();
+        lengthWorld = world.split("");
 
-        long[] l = {1, 2, 3, 4, 5, 6, 7, 8, 9, 153, 370, 371, 407, 1634, 8208, 9474, 54748,
-                92727, 93084, 548834, 1741725, 4210818, 9800817, 9926315,
-                24678050, 24678051, 88593477, 146511208, 472335975, 534494836,
-                912985153, 4679307774L, 32164049650L, 32164049651L, 40028394225L,
-                42678290603L, 44708635679L, 49388550606L, 82693916578L,
-                94204591914L, 28116440335967L, 4338281769391370L, 4338281769391371L,
-                21897142587612075L, 35641594208964132L, 35875699062250035L,
-                1517841543307505039L, 3289582984443187032L, 498128791164624869L, 4929273885928088826L};
-
-        if (N < 4929273885928088826L) {
-
-            for (int i = 0; i < l.length; ++i) {
-                if (N == l[i]) {
-                    while (N != 0) {
-
-                        long a = N % 10;
+        if (N < Long.MAX_VALUE) {
 
 
-                        list.add(a);
+
+            for (int i = 0; i < lengthWorld.length; ++i) {
 
 
-                        N = N / 10;
+                num[i] = Long.parseLong(lengthWorld[i]);
 
-
-                    }
-
-                }
-
+                finalyLong += Math.pow(Double.parseDouble(String.valueOf(num[i])), Integer.parseInt(String.valueOf(num.length)));
 
             }
 
 
+            if (Long.parseLong(String.valueOf(finalyLong)) == N) {
+
+                for (int i = 0; i < num.length; ++i) {
+                    result[i] = N;
+                }
+            }
         }
 
-        long[] result = new long[list.size()];
-
-        Collections.sort(list);
-
-        for (int i = 0; i < list.size(); ++i) {
-            result[i] = list.get(i);
-            System.out.println(result[i]);
+        else
+            if(N < 0 || N > Long.MAX_VALUE || N == Long.MAX_VALUE )
+        {
+            System.out.println("Ho");
         }
+
+
 
         return result;
-
     }
 
     public static void main(String[] args) throws IOException {
