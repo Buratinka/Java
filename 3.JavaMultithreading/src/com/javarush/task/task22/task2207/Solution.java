@@ -1,10 +1,7 @@
 package com.javarush.task.task22.task2207;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 /* 
 Обращенные слова
@@ -16,121 +13,56 @@ public class Solution {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        String name = reader.readLine();
 
-        reader.close();
+        BufferedReader str = new BufferedReader(new FileReader(reader.readLine()));
 
-        StringBuilder temp = new StringBuilder();
+        StringBuilder sb = new StringBuilder();
 
-        String s;
 
-        List<String> firstList = new ArrayList<>();
-        List<String> finalList = new ArrayList<>();
+        ArrayList<String> firstList = new ArrayList<>();
+        ArrayList<String> finalyList = new ArrayList<>();
 
-        BufferedReader readDate = new BufferedReader(new FileReader(name));
+        String line;
 
-        while ((s = readDate.readLine()) != null) {
-
-            firstList.add(s);
-
-        }
-
-        readDate.close();
-
-        for (int i = 0; i < firstList.size(); i++)
+        while((line = str.readLine()) != null)
         {
-            temp.append(firstList.get(i));
-            temp.append(" ");
+            firstList.add(line);
         }
 
 
+        for(int i =0;i<firstList.size();++i)
+        {
+            sb.append(firstList.get(i));
+            sb.append(" ");
+        }
 
-        Collections.addAll(finalList, temp.toString().split("\\s"));
 
-        for (int i = 0; i < finalList.size(); i++)
-            for (int j = i+1; j < finalList.size(); j++)
+        Collections.addAll(finalyList, sb.toString().split("\\s"));
+
+
+        for(int i = 0; i < finalyList.size();++i)
+        {
+            for(int j = i+1;j<finalyList.size();++j)
             {
-                String first = finalList.get(i);
-                String second = new StringBuilder(finalList.get(j)).reverse().toString();
+                String first = finalyList.get(i);
+                String second = new StringBuilder(finalyList.get(j)).reverse().toString();
 
-                if (first.equals(second))
+                if(first.equals(second))
                 {
                     Pair pair = new Pair();
                     pair.first = first;
                     pair.second = new StringBuilder(second).reverse().toString();
-                    if (!result.contains(pair))
-                        result.add(pair);
+                    if(!result.contains(pair))
+                    result.add(pair);
                 }
             }
+        }
 
-            // my solution almost full, not worked with one leter
-//        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-//
-//        //String reader = "/home/oleg/newfile2.txt";
-//
-//        BufferedReader str = new BufferedReader(new FileReader(reader.readLine()));
-//
-//        StringBuilder sb = new StringBuilder();
-//
-//
-//        while(str.ready())
-//        {
-//            String ser =str.readLine();
-//            sb.append(ser);
-//                sb.append(" ");
-//
-//        }
-//
-//        String [] words = sb.toString().split(" ");
-//
-//        List <String> list = new LinkedList();
-//
-//
-//        for(int i=0;i<words.length;++i)
-//        {
-//            list.add(words[i].trim());
-//        }
-//
-//
-//        for(int k=0;k<list.size();++k)
-//        {
-//
-//
-//            for(int j=0;j<list.size();++j)
-//            {
-//
-//                String first = list.get(k);
-//                StringBuilder sb2 = new StringBuilder(first);
-//
-//                String reverse = sb2.reverse().toString();
-//
-//
-//                String second = list.get(j);
-//                if(reverse.equals(second))
-//                {
-//
-//                    Pair pair = new Pair();
-//                    pair.first = first;
-//                    pair.second = second;
-//                    if (!result.contains(pair))
-//                        result.add(pair);
-//
-//
-//                    list.remove(first);
-//                    list.remove(second);
-//
-//
-//
-//                }
-//
-//            }
-//        }
-//
-//
-//        for(Pair p : result)
-//        {
-//            System.out.println(p);
-//        }
+        for(Pair p : result)
+        {
+            System.out.println(p);
+        }
+
 
     }
 
