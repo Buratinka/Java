@@ -14,6 +14,7 @@ public class Hippodrome {
     public static Hippodrome game;
 
     public Hippodrome(List<Horse> horses)
+
     {
         this.horses = horses;
     }
@@ -33,6 +34,8 @@ public class Hippodrome {
         horses.add(horse3);
 
         game = new Hippodrome(horses);
+
+
 
         game.run();
         game.printWinner();

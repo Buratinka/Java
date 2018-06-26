@@ -1,5 +1,6 @@
 package com.javarush.task.task22.task2212;
 
+import java.nio.charset.Charset;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -50,6 +51,5 @@ public class Solution {
     public static void main(String[] args)
     {
 
-        System.out.println("nick@mail.com".matches("^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$"));
     }
 }
