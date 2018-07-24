@@ -2,7 +2,7 @@ package com.javarush.task.task29.task2909.human;
 
 public class BloodGroup
 {
-    private int code;
+    private final int code;
 
     private BloodGroup(int code)
     {
@@ -16,7 +16,7 @@ public class BloodGroup
 
     public static BloodGroup first()
     {
-        return new BloodGroup(1);;
+        return new BloodGroup(1);
     }
     public static BloodGroup second()
     {

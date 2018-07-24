@@ -63,8 +63,8 @@ public class Human implements Alive{
         this.name = name;
     }
 
-    public void setBloodGroup(int code) {
-        new bloodGroup(code);
+    public void setBloodGroup(BloodGroup bloodGroup) {
+        this.bloodGroup = bloodGroup;
     }
 
     public BloodGroup getBloodGroup() {

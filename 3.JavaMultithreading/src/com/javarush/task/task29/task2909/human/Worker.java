@@ -4,10 +4,20 @@ public class Worker extends Human{
 
     private Soldier soldier;
     private double salary;
+
+    public void setCompany(String company) {
+        this.company = company;
+    }
+
+    public String getCompany() {
+
+        return company;
+    }
+
     private String company;
 
-    public Worker(String name, int age, int id) {
-         super(name,age,id);
+    public Worker(String name, int age) {
+        super(name,age);
     }
 
     public void live() {
@@ -20,15 +30,6 @@ public class Worker extends Human{
 
     public void setSalary(double salary) {
         this.salary = salary;
-    }
-
-    public String getCompany()
-    {
-        return company;
-    }
-    public void setCompany(String company)
-    {
-        this.company = company;
     }
 
 }

@@ -19,12 +19,11 @@ public class Student extends UniversityPerson {
         this.averageGrade = averageGrade;
     }
 
-    public double getAverageGrade()
-    {
-        return averageGrade;
-    }
 
-    public void setAverageGrade(double delta){averageGrade += delta;}
+
+    public void incAverageGrade(double delta){
+        setAverageGrade(getAverageGrade() + delta);
+    }
 
     public double getAverageGrade() {
         return averageGrade;

@@ -3,12 +3,1101 @@
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Column.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Columnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/UserHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/UserHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/Quest.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0101/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0101/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0102/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0102/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0103/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0103/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0105/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0105/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0106/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0106/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0107/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0107/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0108/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0108/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/Quest.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1101/Solution$Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1101/Solution$Pegas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1101/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1101/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1102/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1102/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1102/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1102/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1102/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Solution$Bull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Solution$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Solution$Goat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Solution$Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Solution$Sheep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1103/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1104/Solution$Chief.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1104/Solution$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1104/Solution$Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1104/Solution$Secretary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1104/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1104/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$CTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$Cleaner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$Clerk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$HR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$IT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$OfficeManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$ProjectManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution$Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1105/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1106/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1106/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1106/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1107/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1107/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1107/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1108/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1108/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1108/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1109/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1109/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1109/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1109/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1109/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1110/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1110/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1110/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1111/Solution$Adam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1111/Solution$Eve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1111/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1111/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1112/Solution$AppleIPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1112/Solution$SamsungGalaxyS2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1112/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1112/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1113/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1113/Solution$Ape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1113/Solution$Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1113/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1113/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1113/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1114/Solution$Christianity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1114/Solution$Islam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1114/Solution$Judaism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1114/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1114/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1115/Solution$Schoolboy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1115/Solution$Slave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1115/Solution$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1115/Solution$Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1115/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1115/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1116/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1116/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1116/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1116/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1116/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1117/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1117/Solution$Carnivore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1117/Solution$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1117/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1117/Solution$Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1117/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1117/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1118/Solution$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1118/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1118/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1118/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1118/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1118/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1119/Solution$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1119/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1119/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1119/Solution$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1119/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1119/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Solution$Assets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Solution$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Solution$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1120/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1121/Solution$Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1121/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1121/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1121/Solution$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1121/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1121/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1121/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution$Bishop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution$ChessFigure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution$King.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution$Knight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution$Pawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution$Queen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution$Rook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1122/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1123/Solution$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1123/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task11/task1123/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1201/Solution$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1201/Solution$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1201/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1201/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1202/Solution$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1202/Solution$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1202/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1202/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1203/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1203/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1203/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1203/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1203/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1204/Solution$Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1204/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1204/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1204/Solution$Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1204/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1204/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1205/Solution$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1205/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1205/Solution$Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1205/Solution$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1205/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1205/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1206/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1206/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1207/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1207/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1208/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1208/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1209/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1209/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1210/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1210/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1211/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1211/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1211/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1212/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1212/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1212/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1213/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1213/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1213/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1214/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1214/Solution$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1214/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1214/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1215/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1215/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1215/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1215/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1215/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1216/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1216/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1216/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1217/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1217/Solution$Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1217/Solution$Swim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1217/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1217/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution$Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution$Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution$Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution$Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1218/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution$Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution$Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution$Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution$Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution$Swim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1219/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1220/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1220/Solution$Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1220/Solution$Swim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1220/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1220/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1221/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1221/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1221/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1221/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1222/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1222/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1222/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1222/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1223/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1223/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1223/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1223/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1224/Solution$Bull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1224/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1224/Solution$Lion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1224/Solution$Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1224/Solution$Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1224/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1224/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Solution$Bull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Solution$Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Solution$Lion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Solution$Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1225/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution$Climb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution$Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution$Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution$Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1226/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Solution$Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Solution$Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Solution$Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Solution$Swim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Solution$Toad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1227/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1228/Solution$Businessman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1228/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1228/Solution$Miner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1228/Solution$Secretary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1228/Solution$Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1228/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1228/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1229/Solution$Businessman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1229/Solution$CTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1229/Solution$CTORuler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1229/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1229/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1230/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1230/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1231/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1231/Solution$Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1231/Solution$Pegas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1231/Solution$SwimPegas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1231/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1231/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1232/Solution$Fly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1232/Solution$Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1232/Solution$Pegas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1232/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1232/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1233/Solution$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1233/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task12/task1233/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1301/Solution$Alcohol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1301/Solution$Beer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1301/Solution$Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1301/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1301/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1302/Solution$AlcoholicBeer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1302/Solution$Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1302/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1302/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1303/Solution$Beer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1303/Solution$Cola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1303/Solution$Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1303/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1303/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1304/Solution$Screen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1304/Solution$Selectable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1304/Solution$Updatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1304/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1304/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1305/Solution$Desire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1305/Solution$Dream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1305/Solution$Hobbie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1305/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1305/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1306/Solution$DBObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1306/Solution$Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1306/Solution$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1306/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1306/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1307/Solution$SimpleObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1307/Solution$StringObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1307/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1307/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1308/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1308/Solution$Presentable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1308/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1308/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1309/Solution$Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1309/Solution$Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1309/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1309/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Solution$Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Solution$CleverMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Solution$Secretary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Solution$SmartGirl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Solution$Workable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1310/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1311/Solution$EnglishTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1311/Solution$Translator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1311/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1311/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1312/Solution$Translator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1312/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1312/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1313/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1313/Solution$Fox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1313/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1313/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1314/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1314/Solution$BigFox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1314/Solution$Fox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1314/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1314/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Solution$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Solution$Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Solution$Eatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Solution$Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Solution$Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1315/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1316/Solution$Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1316/Solution$SimpleObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1316/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1316/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1317/Solution$Today.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1317/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1317/Weather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1317/WeatherType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1317/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1319/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1319/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1320/Solution$DBObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1320/Solution$Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1320/Solution$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1320/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1320/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1321/Solution$Desire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1321/Solution$Dream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1321/Solution$Hobbie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1321/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1321/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1322/Solution$SimpleObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1322/Solution$StringObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1322/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1322/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1323/Solution$Screen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1323/Solution$Selectable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1323/Solution$Updatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1323/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1323/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1324/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1324/Solution$Fox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1324/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1324/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1325/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1325/Solution$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1325/Solution$BigFox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1325/Solution$Fox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1325/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1325/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1326/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1326/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1327/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1327/RepkaItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1327/RepkaStory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1327/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1327/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1328/AbstractRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1328/Attackable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1328/BodyPart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1328/Defensable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1328/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1328/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task13/task1328/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1401/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1401/Solution$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1401/Solution$Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1401/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1401/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1402/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1402/Solution$Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1402/Solution$TomCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1402/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1402/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1403/Solution$Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1403/Solution$School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1403/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1403/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution$CatFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution$FemaleCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution$MaleCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1404/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1405/Solution$Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1405/Solution$Selectable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1405/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1405/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1406/Solution$GreyMouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1406/Solution$Jerry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1406/Solution$Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1406/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1406/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1407/Solution$Dancer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1407/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1407/Solution$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1407/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1407/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/BelarusianHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/Hen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/MoldovanHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/RussianHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/Solution$HenFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/UkrainianHen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1408/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1409/Bridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1409/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1409/SuspensionBridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1409/WaterBridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1409/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1410/BubblyWine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1410/Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1410/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1410/Wine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1410/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1411/Person$Coder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1411/Person$Loser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1411/Person$Proger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1411/Person$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1411/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1411/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1411/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1412/Solution$Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1412/Solution$Drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1412/Solution$Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1412/Solution$Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1412/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1412/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1413/CompItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1413/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1413/Keyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1413/Monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1413/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1413/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1413/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution$Cartoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution$Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution$MovieFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution$SoapOpera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution$Thriller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1414/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1415/Solution$Apartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1415/Solution$Apt1Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1415/Solution$Apt2Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1415/Solution$Apt3Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1415/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1415/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Solution$OceanAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Solution$Orca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Solution$Otter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Solution$Swimmable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Solution$Walkable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Solution$Whale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1416/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1417/Hrivna.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1417/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1417/Ruble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1417/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1417/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1417/USD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1417/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1418/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1418/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1419/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1419/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1420/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1420/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1421/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task14/task1421/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1501/Solution$Clothes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1501/Solution$Discountable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1501/Solution$Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1501/Solution$Sellable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1501/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1501/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1502/Solution$BigAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1502/Solution$Dragon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1502/Solution$Goose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1502/Solution$SmallAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1502/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1502/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1503/Solution$CheapCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1503/Solution$Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1503/Solution$Ferrari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1503/Solution$Lanos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1503/Solution$LuxuriousCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1503/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1503/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1504/Solution$AgathaChristieBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1504/Solution$Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1504/Solution$MarkTwainBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1504/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1504/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1505/Solution$Alive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1505/Solution$BodyPart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1505/Solution$Finger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1505/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1505/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1506/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1506/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1507/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1507/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1508/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1508/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1509/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1509/Solution$Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1509/Solution$Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1509/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1509/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1510/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1510/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1511/Solution$JavaDev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1511/Solution$JuniorJavaDev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1511/Solution$SpecificSerializable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1511/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1511/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1512/Solution$NakedCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1512/Solution$NormalCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1512/Solution$SiamCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1512/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1512/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1513/Solution$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1513/Solution$Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1513/Solution$Runnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1513/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1513/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1514/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1514/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1515/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1515/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1516/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1516/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1517/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1517/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1518/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1518/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1518/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1519/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1519/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1520/Solution$Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1520/Solution$Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1520/Solution$Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1520/Solution$Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1520/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1520/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1521/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1521/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1521/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Earth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Moon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Planet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Sun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1522/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1523/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1523/SubSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1523/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1524/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1524/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1525/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1525/Statics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1525/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1526/Solution$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1526/Solution$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1526/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1526/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1527/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1527/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Solution$Hrivna.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Solution$Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1528/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1529/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1529/Helicopter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1529/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1529/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1529/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1530/DrinkMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1530/LatteMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1530/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1530/TeaMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1530/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1531/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task15/task1531/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1601/Solution$TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1601/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1601/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1602/Solution$TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1602/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1602/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1603/Solution$SpecialThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1603/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1603/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1604/Solution$SpecialThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1604/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1604/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1605/Solution$MusicalInstrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1605/Solution$Violin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1605/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1605/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1606/Solution$PrintListThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1606/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1606/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1607/Solution$Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1607/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1607/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1608/Solution$Politician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1608/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1608/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1609/Solution$Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1609/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1609/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1610/Solution$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1610/Solution$Kitten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1610/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1610/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1611/Solution$Clock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1611/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1611/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1612/Solution$Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1612/Solution$Stopwatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1612/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1612/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1613/Solution$Clock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1613/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1613/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1614/Solution$Countdown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1614/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1614/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1615/Solution$Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1615/Solution$Runway.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1615/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1615/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1616/Solution$Stopwatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1616/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1616/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1617/Solution$RacingClock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1617/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1617/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1618/Solution$TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1618/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1618/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1619/Solution$TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1619/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1619/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1620/Solution$Water.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1620/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1620/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1621/Solution$NameOfDifferentThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1621/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1621/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1622/Solution$SleepingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1622/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1622/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1623/Solution$GenerateThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1623/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1623/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1624/Solution$MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1624/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1624/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1625/Solution$T1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1625/Solution$T2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1625/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1625/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1626/Solution$CountDownRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1626/Solution$CountUpRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1626/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1626/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1627/Solution$Gamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1627/Solution$OnlineGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1627/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1627/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1628/Solution$ReaderThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1628/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1628/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1629/Solution$Read3Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1629/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1629/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1630/Solution$ReadFileInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1630/Solution$ReadFileThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1630/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1630/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/ImageReaderFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/common/BmpReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/common/ImageReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/common/ImageTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/common/JpgReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/common/PngReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1631/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$ThreadInfinitely.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$ThreadInterrupted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$ThreadMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$ThreadNumberInputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution$ThreadUra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1632/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Solution$OurUncaughtExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Solution$TestedThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task16/task1633/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1701/Solution$Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1701/Solution$NoteThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1701/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1701/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1702/Solution$SortThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1702/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1702/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1703/Solution$Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1703/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1703/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1704/Solution$Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1704/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1704/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1705/Solution$Garden.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1705/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1705/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1706/OurPresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1706/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1706/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1707/IMF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1707/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1707/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1708/Solution$Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1708/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1708/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1709/Solution$AcceptProposal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1709/Solution$MakeProposal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1709/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1709/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1710/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1710/Sex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1710/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1710/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Sex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1711/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Cook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Dishes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Restaurant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Waiter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1712/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1713/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1713/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1714/Beach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1714/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1715/Drug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1715/DrugsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1715/Solution$Apteka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1715/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1715/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1715/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1716/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1716/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1717/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1717/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1718/Solution$Clothes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1718/Solution$Iron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1718/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1718/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1718/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1719/ApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1719/Bean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1719/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1720/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1720/Bankomat$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1720/Bankomat$SpendThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1720/Bankomat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1720/NotEnoughMoneyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1720/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1721/CorruptedDataException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1721/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1721/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1722/Solution$Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1722/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task17/task1722/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1801/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1801/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1802/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1802/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1803/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1803/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1804/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1804/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1805/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1805/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1806/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1806/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1807/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1807/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1808/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1808/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1809/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1809/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Solution$DownloadException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1810/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1811/Solution$DecoratorMyRunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1811/Solution$DecoratorRunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1811/Solution$RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1811/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1811/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1812/AmigoOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1812/QuestionFileOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1812/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1813/AmigoOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1813/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1814/TxtInputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1814/UnsupportedFileNameException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1814/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1815/Solution$ATableInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1815/Solution$TableInterfaceWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1815/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1815/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1816/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1816/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1817/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1817/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1818/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1818/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1819/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1819/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1820/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1820/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1821/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1821/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1822/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1822/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution$ReadThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1824/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1824/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1826/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1826/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1828/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1828/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Solution$ATable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Solution$BTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Solution$TableAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1901/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1902/AdapterFileOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1902/AmigoStringWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1902/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Solution$Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Solution$Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Solution$IncomeData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Solution$IncomeDataAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1903/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1904/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1904/PersonScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1904/Solution$PersonScannerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1904/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1904/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Solution$Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Solution$Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Solution$DataAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Solution$RowItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1905/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1906/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1906/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1907/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1907/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1908/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1908/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1909/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1909/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1910/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1910/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1911/Solution$TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1911/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1911/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1912/Solution$TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1912/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1912/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1913/Solution$TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1913/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1913/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1914/Solution$TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1914/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1914/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1915/Solution$TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1915/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1915/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1916/Solution$LineItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1916/Solution$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1916/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1916/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1917/FileConsoleWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1917/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1918/Solution$MyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1918/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1918/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1919/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1919/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1920/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1920/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1921/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1921/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1921/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1922/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1922/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1923/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1923/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1924/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1924/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1925/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1925/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1926/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1926/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Solution$TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Solution$Wrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1927/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1928/Solution$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1928/Solution$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1928/Solution$C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1928/Solution$Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1928/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task19/task1928/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2001/Asset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2001/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2001/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2001/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/Solution$JavaRush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/User$Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2002/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2003/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2003/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2004/Solution$ClassWithStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2004/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2004/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2005/Asset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2005/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2005/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2005/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2006/Asset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2006/Solution$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2006/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2006/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2007/Solution$JavaRush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2007/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2007/User$Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2007/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2007/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2008/Solution$Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2008/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2008/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2009/Solution$ClassWithStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2009/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2009/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2010/Solution$Object.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2010/Solution$String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2010/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2010/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2011/Solution$Apartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2011/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2011/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2012/Solution$OutputToConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2012/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2012/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2013/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2013/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2013/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2014/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2014/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2015/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2015/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2016/Solution$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2016/Solution$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2016/Solution$C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2016/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2016/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2017/Solution$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2017/Solution$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2017/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2017/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2018/Solution$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2018/Solution$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2018/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2018/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2019/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2019/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2020/Solution$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2020/Solution$Sex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2020/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2020/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2021/Solution$SubSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2021/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2021/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2022/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2022/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2024/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2024/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2025/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2025/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2027/Solution$Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2027/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2027/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Инструкция.png" beforeDir="false" />
     </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,54 +1118,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CancellableTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2509/CancellableTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2601/Solution.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Условие.jrtc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/Условие.jrtc">
+        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2601/Условие.jrtc">
           <provider selected="true" editor-type-id="EditorTypeId" />
-        </entry>
-      </file>
-      <file leaf-file-name="Human.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Worker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Worker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BloodGroup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -103,13 +1152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2405/Solution.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2406/Solution.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2407/Cat.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Sayable.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2408/Dog.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Item.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Jeans.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Solution.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2409/Util.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2410/Solution.java" />
@@ -145,15 +1187,22 @@
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2514/Solution.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Professor.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Alive.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/University.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Soldier.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Teacher.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/UniversityPerson.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/StudentsDataBase.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/University.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Student.java" />
         <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Worker.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java" />
-        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Cabriolet.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Sedan.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Truck.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Car.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/Address.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/UserHelper.java" />
+        <option value="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/User.java" />
       </list>
     </option>
   </component>
@@ -167,15 +1216,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="392" />
-    <option name="width" value="1360" />
-    <option name="height" value="996" />
+    <option name="x" value="327" />
+    <option name="y" value="255" />
+    <option name="width" value="1370" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator proportions="" version="1">
       <autoscrollFromSource AndroidView="true" Scope="true" ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
@@ -185,94 +1235,50 @@
           <expand>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="9c53a853:ProjectViewModuleGroupNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="2.JavaCore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task3608" type="462c0819:PsiDirectoryNode" />
+              <item name="task2601" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task3608" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="task2909" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task3608" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task3608" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task3608" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task3608" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="3.JavaMultithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task3608" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="task2909" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -600,10 +1606,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../buratinka" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1016,6 +2022,8 @@
       <workItem from="1532359851766" duration="621000" />
       <workItem from="1532360494933" duration="148000" />
       <workItem from="1532361066285" duration="4000" />
+      <workItem from="1532361682199" duration="988000" />
+      <workItem from="1532362744249" duration="11271000" />
     </task>
     <task id="LOCAL-00001" summary="19lvl">
       <created>1526121475348</created>
@@ -1262,14 +2270,22 @@
       <option name="project" value="LOCAL" />
       <updated>1531850832325</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="19lvl">
+      <created>1532361735330</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1532361735330</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="548057000" />
+    <option name="totallyTimeSpent" value="560316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
@@ -1284,7 +2300,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946582" weight="0.18875928" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49283352" visible="true" weight="0.15918803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49283352" visible="true" weight="0.16239317" />
       <window_info anchor="bottom" id="Regex" order="11" weight="0.32979852" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" sideWeight="0.5071665" side_tool="true" weight="0.21420941" />
@@ -1303,34 +2319,34 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32979852" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839744" weight="0.26723224" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="5" sideWeight="0.500821" side_tool="true" weight="0.1875" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49946582" weight="0.32767764" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49283352" visible="true" weight="0.16239317" />
       <window_info id="Structure" order="1" sideWeight="0.5071665" side_tool="true" weight="0.21420941" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Regex" order="11" weight="0.32979852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839744" weight="0.26723224" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Regex" order="11" weight="0.32979852" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32979852" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3711559" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946582" weight="0.18875928" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3711559" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005342" side_tool="true" weight="0.19088016" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49946582" weight="0.32767764" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005342" side_tool="true" visible="true" weight="0.19088016" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.120890774" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49283352" visible="true" weight="0.15277778" />
+      <window_info id="Favorites" order="5" sideWeight="0.500821" side_tool="true" weight="0.1875" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1384,60 +2400,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/dao/mock/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task36/task3608/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2501/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2501/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2502/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2502/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Solution.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Columnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2503/Column.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2504/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
@@ -1529,30 +2491,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Professor.java" />
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/University.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Soldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Alive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1575,57 +2513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///tmp/Компиляция">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/StudentsDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///tmp/Валидация">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/UniversityPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2514/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2513/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
@@ -1638,6 +2525,9 @@
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2507/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2514/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2509/CancellableTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1645,7 +2535,203 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///tmp/Компиляция">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/University.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/StudentsDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding>
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/BloodGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Sedan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Cabriolet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/UserHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding>
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/human/UniversityPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/Валидация">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2601/Solution.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task26/task2601/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
   </component>
