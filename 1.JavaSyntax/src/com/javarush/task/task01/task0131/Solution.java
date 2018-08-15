@@ -9,7 +9,9 @@ public class Solution {
         System.out.println(getMetreFromCentimetre(243));
     }
 
-    public static int getMetreFromCentimetre(int centimetre) {
-        //напишите тут ваш код
+    public static int getMetreFromCentimetre(int centimetre)
+    {
+        String [] k = String.valueOf(centimetre).split("");
+        return Integer.valueOf(k[0]);
     }
 }

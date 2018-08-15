@@ -10,7 +10,7 @@ public class Solution {
     }
 
     public static int getSecondsAfter15(int secondsAfter12) {
-        int secondsAfter15;
+        int secondsAfter15 = secondsAfter12*60;
         //напишите тут ваш код
 
 
